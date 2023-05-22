@@ -1,1 +1,1 @@
-# python-search
+Pada percobaan 10, 11, 12 kita melakukan percobaan dan beberapa latihan tentang sequential dan binary search dengan Phyton, kita jadi memahami konsep dan jenis searching, juga bisa menerapkan konsep searching, serta tahu kapan dan bagaimana menggunakan algoritma searching secara berurutan.
